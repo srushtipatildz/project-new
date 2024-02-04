@@ -1,0 +1,228 @@
+.main{
+    height: 1000px;
+    width: 500px;
+    margin-left: 500px;
+    background-color: rgb(241, 234, 234);
+    
+}
+.logo{
+    position: relative;
+    bottom: 1000px;
+    left: 150px;
+    height: 70px;
+    width: 250px;
+}
+.name{
+    position: relative;
+    bottom: 1000px;
+    right: 190px;
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+}
+.border{
+    position: relative;
+    bottom: 1000px;
+    left: 500px;
+    width: 500px;
+}
+h1{
+    color:rgb(57, 44, 139);
+    position: relative;
+    bottom: 1020px;
+    left:600px;
+    font-size: 40px;
+    text-decoration:underline;
+}
+.feature{
+    color:rgb(57, 44, 139) ;
+    position: relative;
+    bottom: 1030px;
+    left: 570px;
+    font-family: "Abel", sans-serif;
+}
+li::marker {
+    font-size: 1.5rem;
+}
+.image{
+    height: 150px;
+    width: 190px;
+    position: relative;
+    bottom: 1030px;
+    left: 560px;
+}
+.image1{
+    height: 150px;
+    width: 190px;
+    position: relative;
+    bottom: 870px;
+    left: 170px;
+}
+footer{
+    background-color:rgb(20, 57, 126);
+    color: aliceblue;
+    height: 80px;
+    width: 450px;
+    position: relative;
+    bottom: 840px;
+    left: 530px;
+}
+
+/* second page */
+.background{
+    height: 1000px;
+    width: 500px;
+    margin-left: 610px;
+    background-color: rgb(241, 234, 234);
+}
+.heading{
+    color:rgb(57, 44, 139);
+    position: relative;
+    bottom: 980px;
+    left: 620px;
+    font-size: 40px;
+    text-decoration:underline dotted;
+    font-family: "Roboto", sans-serif;
+}
+.box{
+    height: 250px;
+    width: 400px;
+    position: relative;
+    bottom:980px ;
+    left: 650px;
+    background-color:rgb(57, 44, 139);
+    border-radius: 20px;
+    border-top: 15px solid rgb(213, 164, 38);
+    border-bottom: 15px solid rgb(213, 164, 38);
+}
+.other{
+    color:rgb(57, 44, 139);
+    position: relative;
+    bottom: 980px;
+    left: 750px;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    text-decoration: underline ;
+}
+.ccc{
+    color: white;
+    font-size: 60px;
+    
+    background-color:rgb(57, 44, 139);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 980px;
+    left: 650px;
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    rotate: 90deg;
+}
+.java{
+    background-color:rgb(57, 44, 139);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 1180px;
+    left: 880px;
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    rotate: 90deg;
+}
+.cpp{
+    background-color:rgb(57, 44, 139);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 1250px;
+    left: 760px;
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    rotate: 90deg;
+
+}
+.ml{
+    background-color:rgb(57, 44, 139);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 1300px;
+    left: 880px;
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    rotate: 90deg;
+}
+.ds{
+    background-color:rgb(57, 44, 139);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 1470px;
+    left: 650px;
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    rotate: 90deg;
+}
+.info{
+   position: relative;
+   left: 650px;
+   bottom:2150px;
+   font-size: 20px;
+   color:white;
+}
+.info2{
+    position: relative;
+   left: 870px;
+   bottom:2360px;
+   font-size: 20px;
+   color:white;
+
+}
+ul{
+    list-style-image:url(./bullet_triangle_yellow.png)
+    
+}
+.srushti{
+    transform: rotate(-90deg);
+    font-size: 50px;
+    position: relative;
+    top: 30px;
+    color: white;
+}
+.atrangi{
+    position:relative;
+    top: 20px;
+}
+.atrangi2{
+    position:relative;
+    top: 20px;
+}
+.ovi{
+    position:relative;
+    top: 60px;
+}
+a{
+    position: relative;
+    bottom: 1200px;
+    left: 950px;
+}
+.y{
+   position: relative;
+   bottom: 1800px;
+   margin-left: 90px;
+  
+}
+.x{
+    position: relative;
+    right: 340px;
+    bottom: 930px;
+}
+.z{
+    position: relative;
+    bottom: 2100px;
+    left: 1050px;
+}
+.s{
+    position: relative;
+    right:450px;
+    bottom: 60px;
+  
+}
+
+
+
